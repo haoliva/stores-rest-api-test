@@ -46,7 +46,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"username\": \"user14\",\r\n    \"password\": \"abcxyz\"\r\n}",
+							"raw": "{\r\n    \"username\": \"user15\",\r\n    \"password\": \"abcxyz\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -89,7 +89,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"username\": \"user14\",\r\n    \"password\": \"abcxyz\"\r\n}"
+							"raw": "{\r\n    \"username\": \"user15\",\r\n    \"password\": \"abcxyz\"\r\n}"
 						},
 						"url": "{{url}}/auth"
 					},
